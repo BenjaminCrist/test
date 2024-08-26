@@ -1,1 +1,1 @@
-Bonjour tout le monde
+Print('Bonjour tout le monde')
